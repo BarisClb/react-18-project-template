@@ -11,5 +11,5 @@
   - Redux-Thunk - version "^2.4.1"  
 - Added Project Structure.
 - Added Loading Screen. 
-- Added a Loading-Button, it demonstrates the Loading Screen and stops after 5 seconds.
+- Added Loading Button, it demonstrates the Loading Screen and stops after 5 seconds.
 - Added some example Navigation. 
