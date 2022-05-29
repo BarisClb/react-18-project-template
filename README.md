@@ -1,4 +1,4 @@
-# React-18 Project Template with some of the most popular Libraries
+## React-18 Project Template with some of the most popular Libraries
 
 This is a React 18.1.0 'Project Template', that includes the following libraries: 
   - @reduxjs/toolkit - version "^1.8.2"
