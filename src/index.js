@@ -19,7 +19,7 @@ root.render(
 		<PersistGate loading={false} persistor={storeManager.persistor}>
 			<BrowserRouter>
 				<Routes>
-					{/* I use a single 'roof' Route to access all the related routes (For common checks, like 'darkMode' and Auth purposes, etc) */}
+					{/* I use a 'door' Route to access all the related routes (for Auth and/or other shared purposes) */}
 					<Route path="/" element={<CommonMain />}>
 						<Route path="/" element={<Welcome />} />
 						<Route path="/pageone" element={<PageOne />} />

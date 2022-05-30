@@ -11,3 +11,12 @@
 	text-decoration: none;
 	color: rgba(rgb(15, 45, 75), green, blue, alpha);
 }
+
+#main-navigation div {
+	display: flex;
+	gap: 0.7rem;
+}
+
+#main-navigation p {
+	margin-bottom: 0;
+}
