@@ -5,7 +5,7 @@ import { useSelector } from "react-redux";
 import Loading from "../common/Loading";
 
 function MainLayout(props) {
-	// You can use the Loading screen either here or in the Route 'roof', your choice
+	// You can use the Loading screen either here or in the "door" Route, your choice
 	const isLoading = useSelector((state) => state.common.IsLoading);
 	return (
 		<>
